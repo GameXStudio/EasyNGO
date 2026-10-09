@@ -1,0 +1,44 @@
+EasyNGO License
+Copyright (c) 2026 GameXStudios
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to use, copy, modify, and integrate the Software into other projects,
+including commercial projects, subject to the following conditions:
+
+1. USE IN YOUR OWN PROJECTS
+   You may use the Software, modified or unmodified, as part of your own
+   projects (including games and other commercial products), and you may
+   sell or otherwise monetize those projects without limitation and
+   without owing any payment, royalty, or attribution to GameXStudios,
+   PROVIDED that the Software itself is not the product being sold
+   (see Section 3).
+
+2. FORKS AND REDISTRIBUTION OF THE SOFTWARE ITSELF
+   You may publish forks or copies of the Software's source code, provided
+   that:
+   a) A clear and prominent notice crediting "GameXStudios" as the
+      original author, together with a link to the original repository
+      (https://github.com/GameXStudio/EasyNGO), is displayed at the top
+      of the fork's README or equivalent primary entry point, visible to
+      anyone viewing the project; and
+   b) The fork does not generate any revenue of any kind (including but
+      not limited to sales, donations, subscriptions, or paywalled
+      access) for the person or entity publishing it.
+
+3. NO SALE OF THE SOFTWARE ITSELF
+   You may not sell, sublicense, or otherwise charge money for the
+   Software itself, in original or modified form, whether as a standalone
+   product, an asset package, or bundled primarily as the product being
+   offered. This restriction does not apply to projects that merely use
+   the Software as a dependency (see Section 1).
+
+4. NO FALSE ATTRIBUTION
+   You may not claim authorship of the Software, remove or obscure the
+   copyright notice, or represent the Software as your own original work.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. IN NO EVENT SHALL GAMEXSTUDIOS BE LIABLE FOR ANY
