@@ -1,2 +1,2 @@
 # EasyNGO
-It the eraly Prototype is cooming soon
+the early Prototype is cooming soon
