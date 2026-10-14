@@ -14,7 +14,18 @@ Unity 6 is recommended. EasyNGO has been tested with Unity 6.3 LTS.
 
 Netcode for GameObjects (NGO)
 
-Additional dependencies may be required depending on the features you use.
+## Installation
+
+#### Option 1:
+
+1. Download the .unitypackage file to the latest Release (https://github.com/GameXStudio/EasyNGO/releases)
+2. Import the package into your Unity project.
+3. Install any required dependencies.
+
+## Getting Started
+
+After installing EasyNGO, you can start using its available utilities in your Unity project.
+Each feature should be documented separately, including its purpose, parameters, return values, and usage examples.
 
 ---
 
