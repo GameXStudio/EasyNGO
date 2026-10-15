@@ -31,10 +31,40 @@ Each feature should be documented separately, including its purpose, parameters,
 
 # EasyNGO Documentation
 
+## Settings
+
 Include this namespace to access and configure EasyNGO's settings.
 
 ```csharp
 using EasyNGO.Settings;
+```
+
+### Enums
+
+```csharp
+public static enum LogLevel { None, Errors, Warnings, Info, Debug }
+```
+
+The LogLevel enum determines which log messages are enabled.
+
+- None: Disables all EasyNGO log messages. The log level is automatically set to "None" when building the game.
+- Errors: Enables only error messages.
+- Warnings: Enables warning messages.
+- Info: Enables informational messages.
+- Debug: Enables all log messages, including errors, warnings, and informational messages.
+
+## Classes:
+
+```csharp
+public static class LogLevelSettings
+```
+
+Use this class to easily change the log level. It provides a variable of the LogLevel enum type that allows you to configure which log messages are enabled.
+
+## Functions:
+
+```csharp
+
 ```
 
 Include this namespace to access EasyNGO's debugging functions.
@@ -43,7 +73,7 @@ Include this namespace to access EasyNGO's debugging functions.
 using EasyNGO.Debugging;
 ```
 
-The Functions:
+## Functions:
 
 ```csharp
 public static void Log()
