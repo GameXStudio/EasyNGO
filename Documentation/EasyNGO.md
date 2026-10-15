@@ -18,9 +18,9 @@ Netcode for GameObjects (NGO)
 
 #### Option 1:
 
-1. Download the .unitypackage file to the latest Release (https://github.com/GameXStudio/EasyNGO/releases)
-2. Import the package into your Unity project.
-3. Install any required dependencies.
+1. Install all required dependencies.
+2. Download the .unitypackage file to the latest Release (https://github.com/GameXStudio/EasyNGO/releases)
+3. Import the package into your Unity project.
 
 ## Getting Started
 
