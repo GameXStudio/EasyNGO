@@ -31,6 +31,24 @@ Each feature should be documented separately, including its purpose, parameters,
 
 # EasyNGO Documentation
 
+Include this namespace to access and configure EasyNGO's settings.
+
 ```csharp
-Test
+using EasyNGO.Settings;
+```
+
+Include this namespace to access EasyNGO's debugging functions.
+
+```csharp
+using EasyNGO.Debugging;
+```
+
+The Functions:
+
+```csharp
+public static void Log()
+``` 
+
+```csharp
+
 ```
