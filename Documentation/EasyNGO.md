@@ -77,7 +77,15 @@ using EasyNGO.Debugging;
 
 ```csharp
 public static void Log()
-``` 
+```
+
+## Connection
+
+To access EasyNGO's connection-related functionality, include the following namespace:
+
+```csharp
+using EasyNGO.Connetions;
+```
 
 ```csharp
 
